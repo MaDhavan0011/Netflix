@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-box {
+    text-align: center;
+    background-color: #111;
+    padding: 40px;
+    border-radius: 8px;
+  }
+  
+  img {
+    width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  input[type="email"],
+  input[type="password"],
+  button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  button {
+    cursor: pointer;
+    color: #fff;
+    background-color: red;
+  }
+  
+  a {
+    color: #ccc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #fff;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('Netflix_Anime_Festival_2020_Hero_Art.jpg'); /* Replace 'background_image.jpg' with your image file */
+    background-size: cover;
+    color: #fff;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .login-box {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7); /* Add transparency to the background color */
+    padding: 40px;
+    border-radius: 8px;
+  }
